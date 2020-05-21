@@ -1,2 +1,2 @@
 # Abdulla_zahied
-Online certification course and daily coding skills
+Online certification course,daily coding challenge and daily report
